@@ -1,0 +1,18 @@
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.exe.config
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.exe
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.pdb
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.csprojResolveAssemblyReference.cache
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.Form1.resources
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.Properties.Resources.resources
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.csproj.GenerateResource.Cache
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.exe
+C:\Users\ab1\Dropbox\_HND_Software_Dev\Data Structures\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.pdb
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.exe.config
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.exe
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.pdb
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.exe
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\bin\Debug\WindowsFormKeyValueText.pdb
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.Form1.resources
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.Properties.Resources.resources
+C:\Users\Simon\Desktop\WindowsFormKeyValueText\WindowsFormKeyValueText\obj\Debug\WindowsFormKeyValueText.csproj.GenerateResource.Cache
